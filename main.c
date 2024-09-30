@@ -72,7 +72,7 @@ static void _speaker_init(void)
     gpio_set_function(SPEAKER_TX, GPIO_FUNC_UART);
     gpio_set_function(SPEAKER_RX, GPIO_FUNC_UART);
 
-    _speaker_exec_cmd(0x06, 15);
+    _speaker_exec_cmd(0x06, 30);
 
     _speaker_set_normal();
 
