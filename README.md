@@ -6,7 +6,7 @@ Inspired by the game [The Finals](https://www.reachthefinals.com) I made a casho
 I made a 3d print of [that](https://sketchfab.com/3d-models/the-finals-cashout-and-vault-3d-model-cca6dad59c8d4516ae1370d526cc0a7a) model and painted it by myself. I also created a simple program to mimic the 'stealing'.
 
 ## Preview
-![](https://github.com/Filipeak/the-finals-cashout/blob/main/res/preview.mp4)
+![](https://github.com/Filipeak/the-finals-cashout/blob/main/res/preview.jpg)
 
 You can also see a full video how it looks and sounds on [Reddit](https://www.reddit.com/r/thefinals/comments/1g4xe9w/i_made_a_cashout_station_in_real_life/)
 
