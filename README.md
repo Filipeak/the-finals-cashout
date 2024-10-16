@@ -8,7 +8,7 @@ I made a 3d print of [that](https://sketchfab.com/3d-models/the-finals-cashout-a
 ## Preview
 ![](https://github.com/Filipeak/the-finals-cashout/blob/main/res/preview.jpg)
 
-You can also see a full video how it looks and sounds on [Reddit](https://www.reddit.com/r/thefinals/comments/1fsuoct/i_made_a_cashout_station_in_real_life/)
+You can also see a full video how it looks and sounds on [Reddit](https://www.reddit.com/r/thefinals/comments/1g4xe9w/i_made_a_cashout_station_in_real_life/)
 
 ## Getting Started
 
