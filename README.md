@@ -36,3 +36,7 @@ Install required software:
 
 ### Build
 Project is done in CMake, so create build directory and run: ```cmake ..``` in it. You can also specify your build system (e.g. Ninja) or set some variables. Then you can build your project: ```make``` (Linux) or for example ```ninja```.
+
+### Sound Effects
+
+In the folder ```sfx``` there are sounds used in the project. Copy them to the SD card, which is plugged to DFPlayer.
